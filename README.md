@@ -1,4 +1,4 @@
-# Experimental Build: Simple DC Electric Motor ⚡
+# Experimental Build: DC Electric Motor ⚡
 
 This project demonstrates the design and assembly of a **direct-current (DC) electric motor** using accessible materials.  
 The objective was to showcase the **principles of electromagnetism** and evaluate how variations in coil geometry, magnetic field strength, and current source affect performance.
